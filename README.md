@@ -6,24 +6,21 @@ This repository serves as the central archive for all security-related documenta
 
 All artifacts in this repository are the result of authorized testing, independent research, or documented security events that have been reviewed and archived. This is not a live vulnerability tracker; it is a historical record of our security posture over time.
 
+The purpose of this repository is to maintain a permanent, transparent record of all security testing and validation performed against WinterGate IC infrastructure. By making these artifacts publicly available, we demonstrate our commitment to security, accountability, and continuous improvement.
+
 ---
 
-## 📊 Latest Artifact
+## 📊 Artifacts
 
-| Field | Detail |
-|-------|--------|
-| **Artifact Type** | Red-Team Security Assessment |
-| **Tester** | Emrys |
-| **Date** | 2026-07-11 |
-| **Type** | External black-box adversary emulation |
-| **Scope** | wintergate.org + subdomains |
-| **Result** | 0 confirmed exploits; perimeter rated "Strong" |
+Reports and findings are stored in the `/Assessments/` directory. Each artifact includes the tester, date, scope, methodology, and results.
+
+Additional directories may be added over time as new artifact types are introduced.
 
 ---
 
 ## 👤 Assessment Credit
 
-**Tester:** __Emrys__
+**Tester:** Emrys
 
 **Role:** WIC Security Team Member (reports directly to Head of Security)
 
