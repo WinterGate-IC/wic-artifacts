@@ -40,7 +40,3 @@ Additional directories may be added over time as new artifact types are introduc
 ## 🔒 Disclaimer
 
 These artifacts reflect the state of infrastructure or findings at the time of documentation. Security is an ongoing process, and new threats may emerge over time. The absence of findings in a given assessment does not guarantee the absence of vulnerabilities, only that none were discovered during the testing window.
-
----
-
-## 🧊 WHAT A FREEZE. ❄️
