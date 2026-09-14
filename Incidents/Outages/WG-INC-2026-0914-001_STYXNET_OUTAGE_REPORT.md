@@ -1,4 +1,4 @@
-# INCIDENT REPORT — PUBLIC / REDACTED VERSION
+# INCIDENT REPORT — PUBLIC
 
 **Incident ID:** WG-INC-2026-0914-001
 **Classification:** Public — Redacted
