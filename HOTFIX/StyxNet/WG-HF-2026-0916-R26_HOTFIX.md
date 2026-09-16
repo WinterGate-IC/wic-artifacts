@@ -2,13 +2,13 @@
                         WINTERGATEIC — OFFICIAL HOTFIX DOCUMENT
 
 
-Document ID:        WG-HF-2026-0916-R26
-Classification:     INTERNAL — ENGINEERING
-Date Issued:        2026-09-16
-Time Issued:        00:00 UTC (round closeout)
-Issued By:          WinterGateIC Engineering
-Status:             SHIPPED — byte-verified
-Distribution:       Internal engineering + operations
+- Document ID:        WG-HF-2026-0916-R26
+- Classification:     INTERNAL — ENGINEERING
+- Date Issued:        2026-09-16
+- Time Issued:        00:00 UTC (round closeout)
+- Issued By:          WinterGateIC Engineering
+- Status:             SHIPPED — byte-verified
+- Distribution:       Internal engineering + operations
 
 --------------------------------------------------------------------------------
 1. SUMMARY
